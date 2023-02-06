@@ -1,0 +1,9 @@
+za pomocą semaforów bronię dostępu do stołu, miejsca przy stole, widelców, książek.
+Opuszczam semafor stołowy gdy filozofujący czytelnik do niego zasiada chwilę później
+opuszczając semafor na konkretnym, wylosowanym miejscu przy stole.  
+Następnie wylosowuję książkę i opuszczam semafor na tę wylosowaną książkę.
+Opuszczam semafor na wybrane wcześniej widelce.
+Zwalniam semafor widelcowy - już zjedzone.
+Zwalniam semafor wybranej książki - przeczytana. 
+Zwalniam semafor zajmowanego miejsca.
+Zwalniam semafor stołowy - filozofujący czytelnik opuszcza stół.
